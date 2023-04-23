@@ -17,6 +17,18 @@
   <tr>
 </table>
 
+**Expand to view**
+<details>
+  <summary><b>:zap: Recent Projects</b></summary>
+  [![Readme Profile](https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz)](https://github.com/anuraghazra/github-readme-stats)
+  [![Personal Site](https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz.github.io)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+<details>
+  <summary><b>⚡ Contact me</b></summary>
+    [![Email](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=mail.ru&logoColor=white&color=1DA1F2)](mailto:uroosa741@gmail.com)
+</details>
+
+
 
 
 
