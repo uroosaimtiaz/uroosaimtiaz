@@ -10,7 +10,6 @@
 
 <a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroosaimtiaz&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uroosaimtiaz)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **uroosaimtiaz/uroosaimtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
