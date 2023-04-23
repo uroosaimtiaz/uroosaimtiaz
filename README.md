@@ -1,6 +1,7 @@
-### Hi there 👋
+<h1 style="color:purple;">Uroosa</h1>
+<p style="color:purple;">Junior CS student at Queen's University</p>
 
-<a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uroosaimtiaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Uroosa's github stats" /></a> |
+<a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uroosaimtiaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Uroosa's github stats" /></a> 
 
 <a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroosaimtiaz&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--
