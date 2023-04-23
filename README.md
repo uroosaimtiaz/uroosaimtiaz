@@ -17,18 +17,19 @@
   <tr>
 </table>
 
-**Expand to view**
+<strong>Expand to view</strong>
 <details>
-  <summary><b>:zap: Recent Projects</b></summary>
-  [![Readme Profile](https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz)](https://github.com/anuraghazra/github-readme-stats)
-  [![Personal Site](https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz.github.io)](https://github.com/anuraghazra/github-readme-stats)
+  <summary><strong>Recent Projects</strong></summary>
+  <a href="https://github.com/uroosaimtiaz/uroosaimtiaz"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz" alt="Readme Profile"></a>
+  <a href="https://github.com/uroosaimtiaz/uroosaimtiaz.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz.github.io" alt="Personal Site"></a>
 </details>
 <details>
-  <summary><b>⚡ Contact me</b></summary>
-    [![Email](https://img.shields.io/badge/Email-Me-informational?style=flat&logo=mail.ru&logoColor=white&color=1DA1F2)](mailto:uroosa741@gmail.com)
+  <summary><strong>Contact me</strong></summary>
+    <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </details>
 
 
+![](https://komarev.com/ghpvc/?username=uroosaimtiaz&style=flat-square&color=blueviolet)
 
 
 
