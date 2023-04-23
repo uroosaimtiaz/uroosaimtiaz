@@ -29,8 +29,7 @@
 </details>
 
 
-![](https://komarev.com/ghpvc/?username=uroosaimtiaz&style=flat-square&color=blueviolet)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=uroosaimtiaz&style=flat-square&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 
 
 <!--
