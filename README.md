@@ -2,8 +2,7 @@
                                                                                                                                                 
 <p style="color:purple;">Junior CS student at Queen's University</p>
 
-![image description](https://raw.githubusercontent.com/uroosaimtiaz/uroosaimtiaz/main/mermaid_sequence_diagram.png)
-
+[![Mermaid Sequence Diagram](https://raw.githubusercontent.com/uroosaimtiaz/uroosaimtiaz/main/mermaid_sequence_diagram.png)](https://mermaid.js.org/intro/)
 
 <table>
   <tr>
