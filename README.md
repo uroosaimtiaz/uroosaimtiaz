@@ -1,7 +1,7 @@
 <h1 style="color:purple;">Uroosa</h1>
 <p style="color:purple;">Junior CS student at Queen's University</p>
 
-![image description](https://raw.githubusercontent.com/uroosaimtiaz/uroosaimtiaz/main/Screenshot%202023-04-22%20at%208.53.14%20PM.png)
+![image description](https://raw.githubusercontent.com/uroosaimtiaz/uroosaimtiaz/main/mermaid_sequence_diagram.png)
 
 
 <table>
