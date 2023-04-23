@@ -6,6 +6,8 @@
 
 <a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uroosaimtiaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Uroosa's github stats" /></a> 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=uroosaimtiaz1&theme=dark)](https://git.io/streak-stats)
+
 <a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uroosaimtiaz&layout=compact&theme=buefy&hide_border=true" /></a> 
 <!--
 **uroosaimtiaz/uroosaimtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
