@@ -1,7 +1,7 @@
 <h1 style="color:purple;">Uroosa</h1>
 <p style="color:purple;">Junior CS student at Queen's University</p>
 
-![image description](https://mermaid.live/view#pako:eNqVU8tO5DAQ_JWWLxx25gdyAO1DIE4gshLSKhcTdzKGpJ11twchxL9vOzOzk2SWRSgXx13VVe7Hq6mDQ1MYxt8JqcYf3rbR9hUNNoqv_WBJ4HsJtzE0yBziSaSU5JBkfl-KrZ9uthibLjzPQ3fonJeTNJfRIzle3IemQayooqmF9fn5l6NwAV-ZfUsMl55sl2GPWMtI2UMyYeaogKsQ2g4Zhh0avEOr4jPUWnnrqZCm3iqQoUXC6Osle644tZy5yBo4cjNn8a6lXmV-bqycMTwgErhAqKcmRKzMUmxX1VyLJwaFLK3t4v9QuFcFsBHhJSTwJKg-BZ0eL05Vjn0q4Fu0nlhC7BmevWygOXTwiHq_gr4foq210dqxz1RPNgh9YIE5_YMBGbQaW9yx_8KnYuOcFXlso4roTnhqRzT5diP7qgOnh97rsIU8kCPl8MCJ1TKD9k6HySz-r8332HVjf1dwDW1SWK59_szK9Bh7650u6WtFoGjN3OsIZKLDxqZOMvpNoTZJKF-oNoXEhCuTBmflsNOHS92sXyHob2M7xrc_gLVuLg)
+![image description](Screenshot 2023-04-22 at 8.53.14 PM.png)
 
 
 <a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uroosaimtiaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Uroosa's github stats" /></a> 
