@@ -1,7 +1,7 @@
 <h1 style="color:purple;">Uroosa</h1>
 <p style="color:purple;">Junior CS student at Queen's University</p>
 
-![image description](Screenshot 2023-04-22 at 8.53.14 PM.png)
+![image description](https://raw.githubusercontent.com/uroosaimtiaz/uroosaimtiaz/main/Screenshot%202023-04-22%20at%208.53.14%20PM.png)
 
 
 <a href="https://github.com/uroosaimtiaz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uroosaimtiaz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Uroosa's github stats" /></a> 
