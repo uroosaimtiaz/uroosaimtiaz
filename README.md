@@ -15,12 +15,12 @@
 </table>
 
 <details>
-  <summary><strong>⏲ Recent Projects</strong></summary>
+  <summary><strong>Recent Projects</strong></summary>
   <a href="https://github.com/uroosaimtiaz/uroosaimtiaz"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz&theme=buefy" alt="Readme Profile"></a>
   <a href="https://github.com/uroosaimtiaz/uroosaimtiaz.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz.github.io&theme=buefy" alt="Personal Site"></a>
 </details>
 <details>
-  <summary><strong>➕ More Stats</strong></summary>
+  <summary><strong>More Stats</strong></summary>
 <table>
   <tr>
     <td>
@@ -49,7 +49,7 @@
 </details>
 
 
- <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/email-me-blueviolet" alt="Email"></a>
+ <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blueviolet" alt="Email"></a>
 [![Profile Views](https://komarev.com/ghpvc/?username=uroosaimtiaz&style=flat-square&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 
 
