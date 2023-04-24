@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uroosaimtiaz&theme=buefy&utcOffset=8" /></a>
+      <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uroosaimtiaz&theme=buefy&utcOffset=-4" /></a>
     </td>
   </tr>
 </table>
