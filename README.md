@@ -1,6 +1,7 @@
 <h1 style="color:purple;">Uroosa</h1>
                                                                                                                                                 
 <p style="color:purple;">Junior CS student at Queen's University</p>
+ <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/email-me-blueviolet" alt="Email"></a>
 
 <table>
   <tr>
@@ -14,15 +15,10 @@
   <tr>
 </table>
 
-<strong>Expand to view</strong>
 <details>
   <summary><strong>⏲ Recent Projects</strong></summary>
   <a href="https://github.com/uroosaimtiaz/uroosaimtiaz"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz&theme=buefy" alt="Readme Profile"></a>
   <a href="https://github.com/uroosaimtiaz/uroosaimtiaz.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz.github.io&theme=buefy" alt="Personal Site"></a>
-</details>
-<details>
-  <summary><strong>📫 Contact me</strong></summary>
-    <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/email-me-blueviolet" alt="Email"></a>
 </details>
 <details>
   <summary><strong>➕ More Stats</strong></summary>
