@@ -1,7 +1,6 @@
 <h1 style="color:purple;">Uroosa</h1>
                                                                                                                                                 
 <p style="color:purple;">Junior CS student at Queen's University</p>
- <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/email-me-blueviolet" alt="Email"></a>
 
 <table>
   <tr>
@@ -50,7 +49,7 @@
 </details>
 
 
-
+ <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/email-me-blueviolet" alt="Email"></a>
 [![Profile Views](https://komarev.com/ghpvc/?username=uroosaimtiaz&style=flat-square&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
 
 
