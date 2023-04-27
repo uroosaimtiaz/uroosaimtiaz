@@ -1,6 +1,6 @@
 <h1 style="color:purple;">Uroosa</h1>
                                                                                                                                                 
-<p style="color:purple;">Junior CS student at Queen's University</p>
+<p style="color:purple;">Junior CS student at Queen's University.</p>
 
 
 <table>
