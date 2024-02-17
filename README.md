@@ -49,18 +49,6 @@
 
 </details>
 
-<details>
-  <summary><strong>Snake 🐍 Eats My Contribution Graph!</strong></summary>
-  <a href="https://github.com/Platane/snk">
-    <img src="https://raw.githubusercontent.com/uroosaimtiaz/uroosaimtiaz/output/github-contribution-grid-snake.gif" alt="snake gif">
-  </a>
-</details>
-
- <a href="mailto:uroosa741@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blueviolet" alt="Email"></a>
-[![Profile Views](https://komarev.com/ghpvc/?username=uroosaimtiaz&style=flat-square&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
-
-
-
 <!--
 **uroosaimtiaz/uroosaimtiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
