@@ -15,22 +15,6 @@
   <tr>
 </table>
 
-<details>
-  <summary><strong>Recent Projects</strong></summary>
-  <a href="https://github.com/uroosaimtiaz/uroosaimtiaz"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz&theme=buefy" alt="Readme Profile"></a>
-  <a href="https://github.com/uroosaimtiaz/uroosaimtiaz.github.io"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uroosaimtiaz&repo=uroosaimtiaz.github.io&theme=buefy" alt="Personal Site"></a>
-</details>
-<details>
-  <summary><strong>More Stats</strong></summary>
-<table>
-  <tr>
-    <td>
-      <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uroosaimtiaz&theme=buefy" /></a>
-    </td>
-    <td>
-      <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uroosaimtiaz&theme=buefy" /></a>
-    </td>
-  </tr>
   <tr>
     <td>
       <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uroosaimtiaz&theme=buefy" /></a>
