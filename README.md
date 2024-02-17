@@ -15,22 +15,6 @@
   <tr>
 </table>
 
-  <tr>
-    <td>
-      <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uroosaimtiaz&theme=buefy" /></a>
-    </td>
-    <td>
-      <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=uroosaimtiaz&theme=buefy" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github-profile-summary-cards.vercel.app/demo.html"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uroosaimtiaz&theme=buefy&utcOffset=-4" /></a>
-    </td>
-  </tr>
-</table>
-
-
 </details>
 
 <!--
